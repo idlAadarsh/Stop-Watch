@@ -1,4 +1,4 @@
-# My React + Vite Project 
+# React + Vite Project 
 
 This project is built using **React** with **Vite** for fast development and HMR (Hot Module Replacement).  
 
